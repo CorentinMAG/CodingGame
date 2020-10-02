@@ -1,7 +1,7 @@
 import sys
 import math
 
-message = input() #le caractère ou mor qui doit être encodé en binaire façon chuck norris
+message = input() #le caractère ou mot qui doit être encodé en binaire façon chuck norris
 result = ""
 b_message = ""
 
